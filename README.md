@@ -8,15 +8,7 @@ It also supports fuzzy matching to handle partial or misspelled movie titles!
 ✅ Uses fuzzy title matching for better flexibility
 ✅ Content-based (works using movie descriptions only)
 ✅ Clean and interactive command-line interface
-✅ Beginner-friendly, lightweight and easy to extend
-
-📂 Project Structure
-/movie-recommendation-system
-├── data/
-│   └── movies_metadata.csv      # Movie dataset (from Kaggle)
-├── recommendation.py            # Main recommendation script
-├── requirements.txt             # Python dependencies
-└── README.md                    
+✅ Beginner-friendly, lightweight and easy to extend                  
 
 🛠️ Tech Stack
 Python 3
