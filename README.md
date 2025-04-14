@@ -11,19 +11,19 @@ It also supports fuzzy matching to handle partial or misspelled movie titles!
 ✅ Beginner-friendly, lightweight and easy to extend                  
 
 🛠️ Tech Stack
-Python 3
-Pandas
-Scikit-learn
-RapidFuzz
-TF-IDF Vectorizer
-Cosine Similarity
+✅ Python 3
+✅ Pandas
+✅ Scikit-learn
+✅ RapidFuzz
+✅ TF-IDF Vectorizer
+✅ Cosine Similarity
 
-📥 Dataset
+📥 Dataset:
 movies_metadata.csv from Kaggle
 
 🚀 How to Run
-pip install -r requirements.txt
-python recommendation.py
+✅ pip install -r requirements.txt   
+✅ python recommendation.py
 
 🖥️ Demo
 🎬 Enter a movie title: Interstellar
