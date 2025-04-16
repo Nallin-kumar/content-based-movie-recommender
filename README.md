@@ -18,8 +18,11 @@ It also supports fuzzy matching to handle partial or misspelled movie titles!
 ✅ TF-IDF Vectorizer
 ✅ Cosine Similarity
 
-📥 Dataset:
-movies_metadata.csv from Kaggle
+📥 Dataset
+This project uses the movies_metadata.csv dataset from Kaggle.
+Link : https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv
+⚠️ Note: Due to GitHub file size restrictions, the dataset isn’t included in this repository.
+After downloading, place the file in your project directory or update the file path in the code accordingly.
 
 🚀 How to Run
 ✅ pip install -r requirements.txt   
